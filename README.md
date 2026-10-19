@@ -4,7 +4,7 @@
 
 Effective date: October 4, 2026
 
-Developer: Ledi
+Developer: Ledi (乐迪)
 
 TV Remote Glow ("the App") turns your iPhone or iPad into a remote control for a TV on the same Wi-Fi. This policy explains how the App handles information.
 
@@ -41,7 +41,7 @@ If this policy changes materially, the effective date on this page will be updat
 
 ## Contact Us
 
-For privacy questions, open an issue in this repository (see [Support](#support--技术支持)).
+For privacy questions, email the developer, Ledi (乐迪), at bulayunkeji@gmail.com.
 
 ---
 
@@ -49,7 +49,7 @@ For privacy questions, open an issue in this repository (see [Support](#support-
 
 生效日期：2026 年 10 月 4 日
 
-开发者：Ledi
+开发者：乐迪
 
 电视遥控器（以下简称“本 App”）可以把你的 iPhone 或 iPad 变成同一 Wi-Fi 下电视的遥控器。本政策说明本 App 如何处理信息。
 
@@ -86,7 +86,7 @@ For privacy questions, open an issue in this repository (see [Support](#support-
 
 ## 联系我们
 
-如有隐私相关问题，请在本仓库提交 Issue（见[技术支持](#support--技术支持)）。
+如有隐私相关问题，请发邮件至 bulayunkeji@gmail.com 联系开发者乐迪。
 
 ---
 
@@ -101,5 +101,5 @@ Android TV and Google TV (pair once with the code shown on the TV), and Mainland
 Android TV 和 Google TV（首次使用时输入电视上显示的配对码），以及中国大陆版小米 / Redmi 电视。
 
 **Contact / 联系方式**
-Open an issue at https://github.com/liyuan1161/tvremote-privacy/issues
-请在 https://github.com/liyuan1161/tvremote-privacy/issues 提交 Issue。
+Email bulayunkeji@gmail.com
+请发邮件至 bulayunkeji@gmail.com。
